@@ -1,4 +1,4 @@
-# Assignment-Two-Scraping Twitter
+# Assignment Two-Scraping Twitter
 
 **ANUJA KALE - NU ID: 002700699**
 
